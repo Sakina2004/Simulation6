@@ -1,0 +1,37 @@
+﻿@using Simulation_6.Models
+@using Simulation_6.ViewModel.WorkerVIewModels
+@model List<WorkerGetVm>
+@{
+    int order = 1;
+}
+<table class="table">
+    <a class="btn btn-success" asp-action="Create">Create</a>
+    <thead>
+        <tr>
+            <th scope="col">#ID</th>
+            <th scope="col">Fullname</th>
+            <th scope="col">Description</th>
+            <th scope="col">ImagePath</th>
+            <th scope="col">PositionId</th>
+            <th scope="col">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var worker in Model)
+        {
+        <tr>
+                <th scope="row">@(order++)</th>
+            <td>@worker.Fullname</td>
+                <td>@worker.Description</td>
+                <td><img src="~images/@worker.ImagePath /" /></td>
+                <td>@worker.PositionId</td>
+                <td>
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@worker.Id">Delete</a>
+                    <a class="btn btn-primary" asp-action="Update" asp-route-id="@worker.Id">Update</a>
+                </td>
+        </tr>
+   }
+
+       
+    </tbody>
+</table>

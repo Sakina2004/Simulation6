@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Simulation-6.props" />
+</Project>
