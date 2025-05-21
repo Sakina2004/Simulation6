@@ -12,6 +12,5 @@ namespace Simulation_6.DataAccessLayer
         }
         public DbSet<Position> Positions { get; set; }
         public DbSet<Worker> Workers { get; set; }
-        public DbSet<Simulation_6.ViewModel.WorkerVIewModels.WorkerUpdateVm> WorkerUpdateVm { get; set; } = default!;
     }
 }

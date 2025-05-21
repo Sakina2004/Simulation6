@@ -1,126 +1,128 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\",
+  "WorkspaceRootPath": "C:\\Users\\comp0625\\Desktop\\Simulation6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\areas\\admin\\views\\worker\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\views\\worker\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\areas\\admin\\views\\worker\\update||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\views\\worker\\update||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\areas\\admin\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\areas\\admin\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\areas\\admin\\views\\worker\\update||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\views\\worker\\update||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\areas\\admin\\views\\worker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\views\\worker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\areas\\admin\\views\\worker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\views\\worker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\viewmodel\\workerviewmodels\\workerupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\viewmodel\\workerviewmodels\\workerupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\viewmodel\\workerviewmodels\\workerupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\viewmodel\\workerviewmodels\\workercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\areas\\admin\\views\\worker\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\views\\worker\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\areas\\admin\\views\\worker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\views\\worker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\areas\\admin\\views\\worker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\views\\worker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\viewmodel\\workerviewmodels\\workercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\viewmodel\\workerviewmodels\\workercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\viewmodel\\workerviewmodels\\workergetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\viewmodel\\workerviewmodels\\workergetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\viewmodel\\workerviewmodels\\workergetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\wwwroot\\assets\\img\\about.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\wwwroot\\assets\\img\\about.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\wwwroot\\assets\\img\\apple-touch-icon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\wwwroot\\assets\\img\\apple-touch-icon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\viewmodel\\positionviewmodels\\positiongetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\viewmodel\\positionviewmodels\\positiongetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\viewmodel\\positionviewmodels\\positiongetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Migrations\\20250521052203_CreatedPositionTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Simulation-6\\Migrations\\20250521052203_CreatedPositionTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\dataaccesslayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\wwwroot\\assets\\img\\about.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\wwwroot\\assets\\img\\about.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\wwwroot\\assets\\img\\apple-touch-icon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\wwwroot\\assets\\img\\apple-touch-icon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\i novbe\\desktop\\gulyana\\simulation-6\\simulation-6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Update||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Update||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|c:\\users\\comp0625\\desktop\\simulation6\\simulation-6\\migrations\\20250521052203_createdpositiontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78DD828A-805E-4D95-926E-28521295D442}|Simulation-6\\Simulation-6.csproj|solutionrelative:simulation-6\\migrations\\20250521052203_createdpositiontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -135,230 +137,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index1.cshtml",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Index1.cshtml",
-              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Views\\Worker\\Index1.cshtml",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Index1.cshtml",
-              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Views\\Worker\\Index1.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T09:37:43.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Update",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Update",
-              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Views\\Worker\\Update",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Update",
-              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Views\\Worker\\Update",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-21T09:27:30.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PositionController.cs",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T09:20:32.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Update",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Update",
-              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Views\\Worker\\Update",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Update",
-              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Views\\Worker\\Update",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-21T08:30:17.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WorkerUpdateVm.cs",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerUpdateVm.cs",
-              "RelativeDocumentMoniker": "Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerUpdateVm.cs",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerUpdateVm.cs",
-              "RelativeToolTip": "Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerUpdateVm.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAD4vw0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T08:27:58.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WorkerCreateVm.cs",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerCreateVm.cs",
-              "RelativeDocumentMoniker": "Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerCreateVm.cs",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerCreateVm.cs",
-              "RelativeToolTip": "Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerCreateVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T06:21:18.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "WorkerController.cs",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Controllers\\WorkerController.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Controllers\\WorkerController.cs",
               "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Controllers\\WorkerController.cs",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Controllers\\WorkerController.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Controllers\\WorkerController.cs",
               "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Controllers\\WorkerController.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAuwEAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAwwFsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T06:02:50.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
-              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
-              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T05:45:22.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T05:28:47.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
               "Title": "Worker.cs",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Models\\Worker.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Models\\Worker.cs",
               "RelativeDocumentMoniker": "Simulation-6\\Models\\Worker.cs",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Models\\Worker.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Models\\Worker.cs",
               "RelativeToolTip": "Simulation-6\\Models\\Worker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T05:07:57.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
-              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
-              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T06:41:11.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T05:29:21.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T05:29:08.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T05:45:48.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:28:33.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "WorkerGetVm.cs",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerGetVm.cs",
-              "RelativeDocumentMoniker": "Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerGetVm.cs",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerGetVm.cs",
-              "RelativeToolTip": "Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerGetVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:24:51.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "about.jpg",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\wwwroot\\assets\\img\\about.jpg",
-              "RelativeDocumentMoniker": "Simulation-6\\wwwroot\\assets\\img\\about.jpg",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\wwwroot\\assets\\img\\about.jpg",
-              "RelativeToolTip": "Simulation-6\\wwwroot\\assets\\img\\about.jpg",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-05-21T07:53:09.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 8,
               "Title": "PositionGetvm.cs",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\ViewModel\\PositionViewModels\\PositionGetvm.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\ViewModel\\PositionViewModels\\PositionGetvm.cs",
               "RelativeDocumentMoniker": "Simulation-6\\ViewModel\\PositionViewModels\\PositionGetvm.cs",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\ViewModel\\PositionViewModels\\PositionGetvm.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\ViewModel\\PositionViewModels\\PositionGetvm.cs",
               "RelativeToolTip": "Simulation-6\\ViewModel\\PositionViewModels\\PositionGetvm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -367,114 +175,115 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 6,
+              "Title": "WorkerCreateVm.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerCreateVm.cs",
+              "RelativeDocumentMoniker": "Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerCreateVm.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerCreateVm.cs",
+              "RelativeToolTip": "Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerCreateVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:21:18.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkerGetVm.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerGetVm.cs",
+              "RelativeDocumentMoniker": "Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerGetVm.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerGetVm.cs",
+              "RelativeToolTip": "Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerGetVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:24:51.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkerUpdateVm.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerUpdateVm.cs",
+              "RelativeDocumentMoniker": "Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerUpdateVm.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerUpdateVm.cs",
+              "RelativeToolTip": "Simulation-6\\ViewModel\\WorkerVIewModels\\WorkerUpdateVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:27:58.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Views\\Worker\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T09:37:43.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Views\\Worker\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T05:45:22.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:20:32.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Views\\Worker\\Create.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T06:41:11.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Position.cs",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Models\\Position.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Models\\Position.cs",
               "RelativeDocumentMoniker": "Simulation-6\\Models\\Position.cs",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Models\\Position.cs",
               "RelativeToolTip": "Simulation-6\\Models\\Position.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T05:11:30.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Program.cs",
-              "RelativeDocumentMoniker": "Simulation-6\\Program.cs",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Program.cs",
-              "RelativeToolTip": "Simulation-6\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:16:48.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "apple-touch-icon.png",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\wwwroot\\assets\\img\\apple-touch-icon.png",
-              "RelativeDocumentMoniker": "Simulation-6\\wwwroot\\assets\\img\\apple-touch-icon.png",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\wwwroot\\assets\\img\\apple-touch-icon.png",
-              "RelativeToolTip": "Simulation-6\\wwwroot\\assets\\img\\apple-touch-icon.png",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-05-21T07:53:15.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "Simulation-6\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "Simulation-6\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-21T05:25:54.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Simulation-6\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Simulation-6\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T05:00:10.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "20250521052203_CreatedPositionTable.cs",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Migrations\\20250521052203_CreatedPositionTable.cs",
-              "RelativeDocumentMoniker": "Simulation-6\\Migrations\\20250521052203_CreatedPositionTable.cs",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Migrations\\20250521052203_CreatedPositionTable.cs",
-              "RelativeToolTip": "Simulation-6\\Migrations\\20250521052203_CreatedPositionTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:22:03.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\appsettings.json",
-              "RelativeDocumentMoniker": "Simulation-6\\appsettings.json",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\appsettings.json",
-              "RelativeToolTip": "Simulation-6\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-21T05:16:47.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\DataAccessLayer\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Simulation-6\\DataAccessLayer\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\DataAccessLayer\\AppDbContext.cs",
-              "RelativeToolTip": "Simulation-6\\DataAccessLayer\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T05:14:32.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 11,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Models\\Common\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Models\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Simulation-6\\Models\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Models\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Models\\Common\\BaseEntity.cs",
               "RelativeToolTip": "Simulation-6\\Models\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -483,42 +292,230 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Simulation-6\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Simulation-6\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T05:04:27.794Z",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Simulation-6\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Simulation-6\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T14:24:03.731Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T05:45:48.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Program.cs",
+              "RelativeDocumentMoniker": "Simulation-6\\Program.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Program.cs",
+              "RelativeToolTip": "Simulation-6\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:16:48.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Simulation-6\\DataAccessLayer\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\DataAccessLayer\\AppDbContext.cs",
+              "RelativeToolTip": "Simulation-6\\DataAccessLayer\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:14:32.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\appsettings.json",
+              "RelativeDocumentMoniker": "Simulation-6\\appsettings.json",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\appsettings.json",
+              "RelativeToolTip": "Simulation-6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T05:16:47.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T05:28:47.217Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Simulation-6\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Simulation-6\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAADMCAAAAAAAAAAAQwD8CAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-21T04:59:22.729Z",
-              "EditorCaption": ""
+              "Title": "Update",
+              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Update",
+              "RelativeDocumentMoniker": "..\\..\\..\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Update",
+              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Update",
+              "RelativeToolTip": "..\\..\\..\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Update",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-21T08:30:17.702Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
+              "Title": "Update",
+              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Update",
+              "RelativeDocumentMoniker": "..\\..\\..\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Update",
+              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Update",
+              "RelativeToolTip": "..\\..\\..\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Areas\\Admin\\Views\\Worker\\Update",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-21T09:27:30.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T05:29:21.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T05:29:08.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Simulation-6\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Simulation-6\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:28:33.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "about.jpg",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\wwwroot\\assets\\img\\about.jpg",
+              "RelativeDocumentMoniker": "Simulation-6\\wwwroot\\assets\\img\\about.jpg",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\wwwroot\\assets\\img\\about.jpg",
+              "RelativeToolTip": "Simulation-6\\wwwroot\\assets\\img\\about.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-21T07:53:09.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "apple-touch-icon.png",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\wwwroot\\assets\\img\\apple-touch-icon.png",
+              "RelativeDocumentMoniker": "Simulation-6\\wwwroot\\assets\\img\\apple-touch-icon.png",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\wwwroot\\assets\\img\\apple-touch-icon.png",
+              "RelativeToolTip": "Simulation-6\\wwwroot\\assets\\img\\apple-touch-icon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-21T07:53:15.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Simulation-6\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Simulation-6\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-21T05:25:54.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Simulation-6\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Simulation-6\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T05:00:10.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250521052203_CreatedPositionTable.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Migrations\\20250521052203_CreatedPositionTable.cs",
+              "RelativeDocumentMoniker": "Simulation-6\\Migrations\\20250521052203_CreatedPositionTable.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Migrations\\20250521052203_CreatedPositionTable.cs",
+              "RelativeToolTip": "Simulation-6\\Migrations\\20250521052203_CreatedPositionTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:22:03.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Simulation-6\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Simulation-6\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T05:04:27.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simulation-6\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Simulation-6\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADMCAAAAAAAAAAAQwD8CAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T04:59:22.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Simulation-6\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\I novbe\\Desktop\\GULYANA\\Simulation-6\\Simulation-6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\comp0625\\Desktop\\Simulation6\\Simulation-6\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Simulation-6\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T04:55:22.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T04:55:22.232Z"
             }
           ]
         }

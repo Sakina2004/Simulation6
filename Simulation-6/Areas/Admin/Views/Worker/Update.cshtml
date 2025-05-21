@@ -1,0 +1,35 @@
+﻿@using Simulation_6.ViewModel.WorkerVIewModels
+@model WorkerUpdateVm
+
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="exampleInputEmail1" asp-for="ImagePath">Image</label>
+        <input class="form-control" asp-for="ImagePath" placeholder="Sekil daxil edin!">
+        <span asp-validation-for="ImagePath" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1" asp-for="Fullname">Fullname</label>
+        <input class="form-control" asp-for="Fullname" placeholder="Ad soyad  daxil edin!">
+        <span asp-validation-for="Fullname" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1" asp-for="Description">Description</label>
+        <input class="form-control" asp-for="Description" placeholder="Description daxil edin!">
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="exampleInputEmail1" asp-for="PositionId">PositionId</label>
+        <select asp-for="PositionId" class="alert-info">
+            @foreach (var item in ViewBag.Positions)
+            {
+                <option value="@item.Id">@item.fullname</option>
+            }
+        </select>
+        <span asp-validation-for="PositionId" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>
+
+
+
+

@@ -8,6 +8,7 @@
         public string Description { get; set; }
         public int PositionId { get; set; }
         public string Image { get; set; }
+      
 
     }
 }

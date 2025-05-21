@@ -90,7 +90,7 @@ namespace Simulation_6.Areas.Admin.Controllers
            }).FirstOrDefaultAsync();
             if (workers is null)
                 return NotFound();
-            return View();
+            return View(workers);
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
@@ -101,10 +101,10 @@ namespace Simulation_6.Areas.Admin.Controllers
                 return BadRequest();
             var entity = await _context.Workers.FirstOrDefaultAsync(x => x.Id == id);
             if (entity is null)
-                return BadRequest();
-            if(vm.Image is not null )
+                return NotFound();
+            if(vm.ImagePath is not null )
             {
-                if(!vm.ImagePath.ContentType.StartsWith("image"))
+                if(!vm.ImagePath.ContentType.Contains("image"))
                 {
                     ModelState.AddModelError("image", "Datanin sekil formasinda olduguna diqqet edekkk!");
                     return View(vm);
@@ -118,7 +118,7 @@ namespace Simulation_6.Areas.Admin.Controllers
                 string path = Path.Combine("wwwroot", "images", filename);
                 using FileStream fs = new(path, FileMode.OpenOrCreate);
                 await vm.ImagePath.CopyToAsync(fs);
-                entity.ImagePath = filename;
+                vm.Image = filename;
             }
                 entity.Description = vm.Description;
                 entity.Fullname = vm.Fullname;
